@@ -2,15 +2,15 @@
 ##~CopyRight:: Devina Sachin Dhuri, Sanved Tapkeer and Tejas Kapadia 
 
 This Readme will take you through the process to install and run the code for th following:
-a] To get the readings from the temperature sensors and stores the data in an Output file,
-b] Simulation and Prediction on a console based application along with analysis,
-c] Simulation, Prediction and Containment of fire spread in Unity3D. 
+Markup : 1. To get the readings from the temperature sensors and stores the data in an Output file,
+2. Simulation and Prediction on a console based application along with analysis,
+3. Simulation, Prediction and Containment of fire spread in Unity3D. 
 
 ###When saved in file:
-15 is for DHT sensor 1
-16 is for DHT sensor 2
-21 is for DHT sensor 3
-22 is for analog sensor
+Markup : 1. 15 is for DHT sensor 1
+2. 16 is for DHT sensor 2
+3. 21 is for DHT sensor 3
+4. 22 is for analog sensor
 
 ###A] To run the code for the sensors follow the steps below:
 1] Install Arduino IDE.
